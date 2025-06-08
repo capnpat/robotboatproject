@@ -1,0 +1,5 @@
+title: "Robot Boat Project"
+description: "Building the first autonomous unmanned boat to circumnavigate the globe."
+theme: minima
+url: "https://robotboatproject.org"
+baseurl: "" # Leave blank since you're using a custom domain
