@@ -9,3 +9,9 @@ header_pages:
   - the-boat.md
   - get-involved.md
   - donate.md
+
+google_analytics: G-4VDJ0PWTE4
+
+
+footer_links:
+  github: "https://github.com/capnpat/robotboatproject"
