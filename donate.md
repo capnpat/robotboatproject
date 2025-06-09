@@ -12,8 +12,16 @@ We (Patrick & Alex Coole) have contributed **$2,000 USD** as founding contributo
 
 ## Current Progress
 
-$2,000 / $20,000  
-[Progress bar — coming soon]
+## Current Progress
+
+$2,000 / $20,000
+
+<div style="background-color: #ddd; width: 100%; height: 30px; border-radius: 5px;">
+  <div style="background-color: #4CAF50; width: 10%; height: 30px; border-radius: 5px; text-align: center; color: white; line-height: 30px;">
+    10%
+  </div>
+</div>
+
 
 ## How Donations Will Be Used
 
