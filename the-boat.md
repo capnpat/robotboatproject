@@ -31,5 +31,7 @@ A 10-meter autonomous sail- and solar-powered boat, designed to complete the fir
 
 ## Design Progress
 
-- [GitHub Repository](#)  
-- [Onshape Project Link](#)
+
+- [GitHub Repository](https://github.com/capnpat/robotboatproject)  
+- [Onshape Project Link](https://cad.onshape.com/documents/89d4d0393e170797107bac40/w/dc7807f9e9849aa8d45a0b96/e/bc0d61dc27ada76bba1e84ce?renderMode=0&uiState=684639499bdca53a41caf283)
+
