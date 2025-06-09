@@ -3,3 +3,9 @@ description: "Building the first autonomous unmanned boat to circumnavigate the 
 theme: minima
 url: "https://robotboatproject.org"
 baseurl: "" # Leave blank since you're using a custom domain
+
+header_pages:
+  - index.md
+  - the-boat.md
+  - get-involved.md
+  - donate.md
